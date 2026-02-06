@@ -1,0 +1,13 @@
+*{
+    background-color: bisque;
+    font-size: 29px;
+
+  font-family: 'Times New Roman', Times, serif;
+  
+
+}
+div, h3{
+    margin-bottom: 10px;
+    
+    text-align: center;
+}
